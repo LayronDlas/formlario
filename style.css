@@ -1,7 +1,9 @@
-body{
-   backgroud: black;
+  table tr{
+   backgroud-color: darkturquoise;
 }
 
-form label{
-   display: block;
-   font-size:20px;
+  table tr td{
+   border: 2px solid;
+   border color: orange:
+   font-size:24px;
+}
